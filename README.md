@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aman Brhane, a seasoned software engineer and recent graduate with a Bachelor's degree in Computer Science. I'm passionate about technology and innovation. Welcome to my GitHub repository!
+I'm Aman Brhane, a seasoned software engineer who embarked on this exciting journey after earning a Bachelor's degree in Computer Science back in 2014. More recently, I've sharpened my skills and expanded my horizons by graduating from the ALX Software Engineering program.
 
 - 🔭 I’m currently working as a freelancer, applying my skills to diverse projects.
 - 🌱 I’m always eager to expand my knowledge. Currently, I'm focused on learning C++, C#, network security, and AWS.
