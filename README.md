@@ -15,12 +15,7 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
 - Tools: GitHub, Linux, Windows
 - Cloud Computing: AWS
 
-**Currently Learning:**
-
-- C++
-- C#
-- Network Security
-- AWS
+[![trophy](https://github-profile-trophy.vercel.app/?username=johhann&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Let's Collaborate:**
 
