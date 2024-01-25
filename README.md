@@ -28,6 +28,14 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
  </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambesawi&show_icons=true&locale=en&layout=compact" alt="Ambesawi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambesawi&show_icons=true&locale=en" alt="Ambesawi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambesawi&" alt="Ambesawi" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ambesawi" alt="Ambesawi" /></a> </p>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ambesawi&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
