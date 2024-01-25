@@ -53,24 +53,7 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
   </a>
 
   
-<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+
   
   
   
