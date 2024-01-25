@@ -15,7 +15,8 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
 - Tools: GitHub, Linux, Windows
 - Cloud Computing: AWS
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=johhann&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ambesawi
+&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Let's Collaborate:**
 
