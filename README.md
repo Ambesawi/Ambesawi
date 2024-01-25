@@ -13,6 +13,8 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
 ## Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambesawi&show_icons=true&locale=en" alt="Ambesawi" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ambesawi&theme=algolia)
 **Technologies I Love:**
 
 - Programming Languages: C, Java, JavaScript, Python, C++, C#
