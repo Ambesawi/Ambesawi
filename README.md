@@ -8,15 +8,14 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
 - 💬 Connect with me on [Twitter](https://twitter.com/AmanAmbes) or drop me an [Email](mailto:ambesawi77@gmail.com).
 - 📚 Explore my GitHub repositories to find projects covering a range of categories and themes.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ambesawi&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 **Technologies I Love:**
 
 - Programming Languages: C, Java, JavaScript, Python, C++, C#
 - Web Technologies: HTML, CSS, Node.js, Express, React, Django, Flask
 - Tools: GitHub, Linux, Windows
 - Cloud Computing: AWS
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ambesawi&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 **Let's Collaborate:**
 
