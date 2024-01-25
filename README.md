@@ -10,6 +10,9 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ambesawi&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambesawi&show_icons=true&locale=en" alt="Ambesawi" /></p>
 **Technologies I Love:**
 
 - Programming Languages: C, Java, JavaScript, Python, C++, C#
