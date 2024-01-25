@@ -35,22 +35,6 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ambesawi&" alt="Ambesawi" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ambesawi" alt="Ambesawi" /></a> </p>
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ambesawi&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ambesawi&show_icons=true&locale=en" alt="Ambesawi" /></p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ambesawi&theme=algolia)
-**Technologies I Love:**
-
-- Programming Languages: C, Java, JavaScript, Python, C++, C#
-- Web Technologies: HTML, CSS, Node.js, Express, React, Django, Flask
-- Tools: GitHub, Linux, Windows
-- Cloud Computing: AWS
-
 **Let's Collaborate:**
 
 I'm enthusiastic about collaborating on innovative projects. If you have ideas or projects related to programming, web development, or cloud computing, let's discuss and explore possibilities.
