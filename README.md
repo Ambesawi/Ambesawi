@@ -31,6 +31,13 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+  </a>
+  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
+  </a>
+</p>
 </p>
 
 <h3 align="left">Databases:</h3>
@@ -87,6 +94,9 @@ I'm Aman Brhane, a seasoned software engineer who embarked on this exciting jour
   </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
 
