@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Aman Brhane, a seasoned software engineer who embarked on this exciting journey after earning a Bachelor's degree in Computer Science back in 2014. More recently, I've sharpened my skills and expanded my horizons by graduating from the ALX Software Engineering program.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ambesawi&label=Profile%20views&color=0e75b6&style=flat" alt="Ambesawi" /> </p>
 <img align="right" alt="Coding gif" width="400" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif">
 <p align="left"> <a href="https://twitter.com/AmanAmbes" target="blank"><img src="https://img.shields.io/twitter/follow/AmanAmbes?logo=twitter&style=for-the-badge" alt="AmanAmbes" /></a> </p>
 
